@@ -27,6 +27,7 @@
 # print("Least frequent:", least_frequent)
 
 from collections import Counter
-a="boya mounika"
+a="jeevankumar"
 b=Counter(a)
 print(b)
+
